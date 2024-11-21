@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClipperApp5 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ClipperApp5 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
